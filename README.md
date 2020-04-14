@@ -1,0 +1,1 @@
+These scripts were created as part of the Udemy Rails course.
